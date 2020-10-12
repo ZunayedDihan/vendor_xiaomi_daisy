@@ -827,8 +827,8 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     embms \
     uceShimService \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
